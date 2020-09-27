@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
@@ -17,52 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[experience]]
-  title = "Summer internship"
-  company = "Beale Halai"
-  company_url = "https://www.bealehalai.co.uk/"
-  location = "London,UK"
-  date_start = "2019-08-25"
-  date_end = "2019-08-25"
-  description = """
-  After an internship with BWB Consulting couldn't go through because of Covid, found a construction management company in need of help surveying. 
-  
-  * Surveying the site 
-  * Creating Site reports
-  * Monitoring existing Building Damage through crack monitoring
-  """
-
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Rensselaer Polytechnic Institute"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "Troy, New York, USA"
-  date_start = "2019-08-25"
-  date_end = "2020-07-31"
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
-  Involved on a proposed reform in fluid mechanics theory of the Strouhall number by Gerrard, 1996. 
-  * Data Analysis using Matlab 
-  * Applying fluid mechanics theory to fluid flow behind square bluff bodies
-  * Collating and making functional code to apply to other data sets
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Communications Assistant"
-  company = "Economad Solutions"
-  company_url = "https://economad.co.uk/"
-  location = "Surrey Docks Farm, London, UK"
-  date_start = "2018-09-01"
-  date_end = "2019-02-31"
-  description = """Charted a working website and working social media channels like facebook, linkedin and twitter to engage small scale organic farmers with the energy saving product."""
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
-
-[[experience]]
-  title = "Teaching Assitant and Member"
-  company = "PPL PWR"
-  company_url = "http://www.pplpwr.org.uk/"
-  location = "London, UK"
-  date_start = "2017-09-01"
-  date_end = ""
-  description = """Worked with an engineering team to create a wind energy workshop to engage students in STEM in The Knights Templar Primary School, UK."""
 +++
