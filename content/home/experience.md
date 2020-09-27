@@ -22,9 +22,9 @@ date_format = "Jan 2006"
   title = "Summer Internship"
   company = "Beale Halai"
   company_url = "https://www.bealehalai.co.uk/"
-  location = "London,UK"
-  date_start = "2019-08-25"
-  date_end = "2019-08-25"
+  location = "London, UK"
+  date_start = "2020-08-25"
+  date_end = "2020-08-25"
   description = """
   After an internship with BWB Consulting couldn't go through because of Covid, found a construction management company in need of help surveying. 
   

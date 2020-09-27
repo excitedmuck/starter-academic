@@ -17,20 +17,38 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+  description = "Numerical Programming and Computing methods, a lot of heavy math involved."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "ArcGIS"
+  description = "Using point and areas and route analysis tools in GIS"  
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "AutoCad"
   description = "100%"  
-  
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Html/Css"
+  description = "Coding up this wesite was done using knowledge of html and css"  
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Matlab"
+  description = "Using 3rd party packages for large datasets like PIVMAT"  
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Instagram - @excitedtruck"
+  description = "I'm really taking up to nature photography..."
 
 # Uncomment to use emoji icons.
 # [[feature]]
