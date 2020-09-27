@@ -17,21 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+[[experience]][[experience]]
   title = "Summer Internship"
   company = "Beale Halai"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  company_url = "https://www.bealehalai.co.uk/"
+  location = "London,UK"
+  date_start = "2019-08-25"
+  date_end = "2019-08-25"
   description = """
-  Responsibilities include:
+  After an internship with BWB Consulting couldn't go through because of Covid, found a construction management company in need of help surveying. 
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Surveying the site 
+  * Creating Site reports
+  * Monitoring existing Building Damage through crack monitoring
   """
-  
+
 [[experience]]
   title = "Summer Internship"
   company = "Beale Halai"
