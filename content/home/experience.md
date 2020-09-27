@@ -42,7 +42,6 @@ date_format = "Jan 2006"
   date_end = "2020-07-31"
   description = """
   Involved on a proposed reform in fluid mechanics theory of the Strouhall number by Gerrard, 1996. 
-  
   * Data Analysis using Matlab 
   * Applying fluid mechanics theory to fluid flow behind square bluff bodies
   * Collating and making functional code to apply to other data sets
