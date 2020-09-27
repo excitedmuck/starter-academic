@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2019-08-25"
   date_end = "2019-08-25"
   description = """
-  After an internship with BW Consulting couldn't go through because of Covid, found a construction management company in need of help surveying. 
+  After an internship with BWB Consulting couldn't go through because of Covid, found a construction management company in need of help surveying. 
   
   * Surveying the site 
   * Creating Site reports
@@ -65,5 +65,4 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = ""
   description = """Worked with an engineering team to create a wind energy workshop to engage students in STEM in The Knights Templar Primary School, UK."""
-
 +++
