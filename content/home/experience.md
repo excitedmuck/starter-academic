@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]][[experience]]
+[[experience]]
   title = "Summer Internship"
   company = "Beale Halai"
   company_url = "https://www.bealehalai.co.uk/"
