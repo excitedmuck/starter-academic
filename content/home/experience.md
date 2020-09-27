@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Surveying the site 
   * Creating Site reports
   * Monitoring existing Building Damage through crack monitoring
-  ""
+  """
 
 [[experience]]
   title = "Undergraduate Research Assistant"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   location = "Surrey Docks Farm, London, UK"
   date_start = "2018-09-01"
   date_end = "2019-02-31"
-  description = """Charted a working website and working social media channels like facebook, linedin and twitter to engage small scale organic farmers with the energy saving product."""
+  description = """Charted a working website and working social media channels like facebook, linkedin and twitter to engage small scale organic farmers with the energy saving product."""
 
 
 [[experience]]
