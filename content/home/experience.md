@@ -45,21 +45,4 @@ date_format = "Jan 2006"
   * Applying fluid mechanics theory to fluid flow behind square bluff bodies
   * Collating and making functional code to apply to other data sets
   """
-  [[experience]]
-  title = "Communications Assistant"
-  company = "Economad Solutions"
-  company_url = "https://economad.co.uk/"
-  location = "Surrey Docks Farm, London, UK"
-  date_start = "2018-09-01"
-  date_end = "2019-02-31"
-  description = """Charted a working website and working social media channels like facebook, linkedin and twitter to engage small scale organic farmers with the energy saving product."""
-
-[[experience]]
-  title = "Teaching Assitant and Member"
-  company = "PPL PWR"
-  company_url = "http://www.pplpwr.org.uk/"
-  location = "London, UK"
-  date_start = "2017-09-01"
-  date_end = ""
-  description = """Worked with an engineering team to create a wind energy workshop to engage students in STEM in The Knights Templar Primary School, UK."""
 +++
