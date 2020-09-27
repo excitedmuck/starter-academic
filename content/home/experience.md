@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Summer Internship"
   company = "Beale Halai"
@@ -52,7 +53,16 @@ date_format = "Jan 2006"
   company_url = "https://economad.co.uk/"
   location = "Surrey Docks Farm, London, UK"
   date_start = "2018-09-01"
-  date_end = "2019-02-31"
+  date_end = "2019-02-01"
   description = """Charted a working website and working social media channels like facebook, linkedin and twitter to engage small scale organic farmers with the energy saving product."""
-  
+
+
+[[experience]]
+  title = "Teaching Assitant and Member"
+  company = "PPL PWR"
+  company_url = "http://www.pplpwr.org.uk/"
+  location = "London, UK"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """Worked with an engineering team to create a wind energy workshop to engage students in STEM in The Knights Templar Primary School, UK."""
 +++
