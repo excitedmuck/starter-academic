@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Troy, New York, USA"
   date_start = "2019-08-25"
   date_end = "2020-07-31"
-  {{% staticref "files/cv.pdf" %}}See my research{{% /staticref %}}.
+  #{{% staticref "files/cv.pdf" %}}See my research{{% /staticref %}}.
   description = """
   Involved on a proposed reform in fluid mechanics theory of the Strouhall number by Gerrard, 1996. 
   
