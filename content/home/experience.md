@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Surveying the site 
   * Creating Site reports
   * Monitoring existing Building Damage through crack monitoring
-  ""
+  """
 
 [[experience]]
   title = "Undergraduate Research Assistant"
