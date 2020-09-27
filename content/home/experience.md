@@ -33,27 +33,33 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Summer Internship"
-  company = "Beale Halai"
+  title = "Undergraduate Research Assistant"
+  company = "Rensselaer Polytechnic Institute"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Troy, New York, USA"
+  date_start = "2019-08-25"
+  date_end = "2020-07-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Involved on a proposed reform in fluid mechanics theory of the Strouhall number by Gerrard, 1996. 
+  * Data Analysis using Matlab 
+  * Applying fluid mechanics theory to fluid flow behind square bluff bodies
+  * Collating and making functional code to apply to other data sets
   """
+  [[experience]]
+  title = "Communications Assistant"
+  company = "Economad Solutions"
+  company_url = "https://economad.co.uk/"
+  location = "Surrey Docks Farm, London, UK"
+  date_start = "2018-09-01"
+  date_end = "2019-02-31"
+  description = """Charted a working website and working social media channels like facebook, linkedin and twitter to engage small scale organic farmers with the energy saving product."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Teaching Assitant and Member"
+  company = "PPL PWR"
+  company_url = "http://www.pplpwr.org.uk/"
+  location = "London, UK"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = """Worked with an engineering team to create a wind energy workshop to engage students in STEM in The Knights Templar Primary School, UK."""
 +++
