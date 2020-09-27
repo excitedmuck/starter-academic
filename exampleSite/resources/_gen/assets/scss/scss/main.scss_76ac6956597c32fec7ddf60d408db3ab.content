@@ -46,7 +46,7 @@ html {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
-article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+article, aside, figcaption, figure, header, hgroup, main, nav, section {
   display: block; }
 
 body {
@@ -382,8 +382,8 @@ mark,
 
 .blockquote-footer {
   display: block;
-  font-size: 80%;
-  color: #6c757d; }
+  font-size: 1%;
+  color: #FFFFFF; }
   .blockquote-footer::before {
     content: "\2014\00A0"; }
 
@@ -7464,7 +7464,7 @@ footer a.back-to-top i {
 .dark site-footer,
 .dark footer a.back-to-top i,
 .dark .docs .body-footer {
-  color: rgba(255, 255, 255, 0.54); }
+  color: rgba(0, 0, 0, 0.54); }
 
 /**************************************************
  *  Tags/Labels
