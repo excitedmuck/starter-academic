@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-08-25"
   date_end = "2020-08-25"
   description = """
-  After an internship with BWB Consulting couldn't go through because of Covid, found a construction management company in need of help surveying. 
+  After an internship with BWB Consulting couldn't go through because of Covid, found a construction management company in need of help surveying. It was fucking awesome.  
   
   * Surveying the site 
   * Creating Site reports
