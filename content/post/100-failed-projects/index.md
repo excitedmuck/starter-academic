@@ -3,7 +3,7 @@ title: 100 Failed Projects
 subtitle: "Why i am embarking on failing 100 projects. "
 date: 2020-09-29T13:28:47.083Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
