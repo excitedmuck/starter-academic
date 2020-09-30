@@ -1,6 +1,6 @@
 ---
 title: 21 Failed Projects
-subtitle: "Why i am embarking on failing 100 projects. "
+subtitle: "Why i am embarking on failing 21 projects. "
 date: 2020-09-29T13:28:47.083Z
 draft: false
 featured: true
