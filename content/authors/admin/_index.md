@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-J'étudie Civil and Environmental Engineering in University College London. I’m interested in climate change, climate modelling, applications of AI and Machine learning in climate problems, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX, Nature paper surfing, paleobiology, evolution, Darwin, Math, music,eco-social sustainability, science communication and looking at the world with the lens of science. Curiosity kills only cats, not humans ;)
+J'étudie Civil and Environmental Engineering in University College London. I’m interested in climate change, climate modelling, applications of AI and Machine learning in climate problems, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX, Nature paper surfing, paleobiology, evolution, Darwin, Math, music,eco-social sustainability, science communication and looking at the world with the lens of science. Curiosity kills cats, not humans ;)
