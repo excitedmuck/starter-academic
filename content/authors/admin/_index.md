@@ -18,12 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in sustainable construction, design, and looking at the world with the lens of science. 
+bio: I'm interested in climate change, climate modelling, applications of AI and Machine learning in critical cost function minimization problems, eco-social sustainability, science communication, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX,  Nature paper surfing, paleobiology, evolution, Darwin, Math,  music, and looking at the world with the lens of science. In a curious way ;)
 
 interests:
+- Climate change
+- Climate modelling
+- AI and Machine Learning in climate change
+- OpenClimate Fix
+- Built environment sustainability 
 - Geology and geophysics
-- Sustainable Cities
-- Advancement of Tech
 - Sci-Fi
 
 education:
