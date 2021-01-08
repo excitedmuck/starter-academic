@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in climate change, climate modelling, applications of AI and Machine learning in critical cost function minimization problems, eco-social sustainability, science communication, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX,  Nature paper surfing, paleobiology, evolution, Darwin, Math,  music, and looking at the world with the lens of science. In a curious way ;)
+bio: I'm an engineer who loves science too much to the chagrin of ... no one. Interested in tech, books, the possibility of intelligent life on other planets, exploring Darwin and evolution, SpaceX, all while marvelling at the absurdity of existence and a Hothouse earth. 
+
 
 interests:
 - Climate change
@@ -68,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Yashvini Shukla is a student of Civil and Environmental Engineering at University College London. She is interested in tech, books, the possibility of intelligent life on other planets, exploring Darwin and evolution, SpaceX, all while marvelling at the absurdity of existence. In a curious way :)
+J'étudie Civil and Environmental Engineering in University College London. I’m interested in climate change, climate modelling, applications of AI and Machine learning in climate problems, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX, Nature paper surfing, paleobiology, evolution, Darwin, Math, music,eco-social sustainability, science communication and looking at the world with the lens of science. Curiosity kills only cats, not humans ;)
