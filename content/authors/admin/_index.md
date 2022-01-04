@@ -22,6 +22,7 @@ bio: I'm an engineer who loves science too much to the chagrin of ... no one. In
 
 
 interests:
+- Blockchain in the circular economy
 - Climate change
 - Climate modelling
 - AI and Machine Learning in climate change
