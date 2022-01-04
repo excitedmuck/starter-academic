@@ -17,7 +17,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-icon = "r-project"
+icon = "python"
 icon_pack = "custom"
 name = "python"
 description = "Numerical Programming and Computing methods, a lot of heavy math involved."
