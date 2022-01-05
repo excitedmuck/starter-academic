@@ -20,7 +20,7 @@ subtitle = ""
 icon = "python"
 icon_pack = "custom"
 name = "python"
-description = "Numerical Programming and Computing methods, a lot of heavy math involved."
+description = "Numerical Programming and Computing methods, creating algorithms for solving problems."
 
 [[feature]]
 icon = "chart-line"
