@@ -17,8 +17,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-icon = "python"
-icon_pack = "custom"
+icon = "chart-line"
+icon_pack = "fas"
 name = "python"
 description = "Numerical Programming and Computing methods, creating algorithms for solving problems."
 
