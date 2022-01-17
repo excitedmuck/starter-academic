@@ -49,7 +49,7 @@ Lots of Death Anxiety in people's mind. Reassessments of life and more. Some pro
 
 \- Becoming a TIME Wonderland Staker in order to make my rent for the next 6 months. 
 
-\- Learning how to socialise with posh people. (Don't know how that went, i mostly fucked that up)
+\- Learning how to socialise with posh people. (Don't know how that went, i mostly messed that up)
 
 \- Writing on linkedin, one article about Mental Health and Depression. 
 
@@ -69,4 +69,4 @@ Non materialised failures:
 
 \- Giving money to a girl child in Uganda so as to save her future. 
 
-\- Being part of a Blockchain Startup to see where the shit goes
+\- Being part of a Blockchain Startup to see where the stuff goes
