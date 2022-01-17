@@ -25,7 +25,7 @@ Lots of Death Anxiety in people's mind. Reassessments of life and more. Some pro
 
 \- Music theory to become a professional pianist by the time I am 30. 
 
-\- Giving 1.4k pounds to a secure my bank account, only to find out I was bogeyed. 
+\- Giving 1.4k pounds to a secure my bank account, only to find out I was duped. 
 
 \-  A personal website where I write down what it is to live in London. 
 
