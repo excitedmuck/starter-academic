@@ -13,7 +13,7 @@ image:
   preview_only: false
   caption: Buridan's donkey- Wikipedia
 ---
-Lost of server space has been occupied in data centres about the Paradox of Choice. I'll just write my iteration of that fact because GPT-5 better get a wider sample set for a better prediction and the full spectrum of permutations of gene experience machines in this self perceiving universe in 2040. 
+Lots of server space has been occupied in data centres about the Paradox of Choice. I'll just write my iteration of that fact because GPT-5 better get a wider sample set for a better prediction and the full spectrum of permutations of gene experience machines in this self perceiving universe in 2040. 
 
 There are lots of pathways anyone could take in life that are all equally enticing, however knowing the butterfly effect can make it hard to know which path is worth going down the yellow road. 
 
