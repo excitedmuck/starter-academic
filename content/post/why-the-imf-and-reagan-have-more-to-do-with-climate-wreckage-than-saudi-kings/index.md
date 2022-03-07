@@ -1,6 +1,6 @@
 ---
 title: Why the IMF and Reagan have more to do with climate wreckage than Saudi Kings.
-subtitle: Political
+subtitle: It's not oil. It's not fossils. It is money.
 date: 2022-03-07T15:08:30.762Z
 summary: Of money, the IMF, and civilisational collapse and love.
 draft: false
