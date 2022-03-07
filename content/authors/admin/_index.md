@@ -27,6 +27,7 @@ interests:
 - Climate modelling
 - AI and Machine Learning in climate change
 - OpenClimate Fix
+- Built environment sustainability 
 - Geology and geophysics
 - Sci-Fi
 
@@ -52,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/excitedmuck/
+  link: https://github.com/gcushen
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -68,5 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hey there. I am an Delay Analyst in the Construction industry. I have a background in Civil and Environmental Engineering from University College London. I’m interested in blockchain, climate change, climate modelling, applications of AI and Machine learning in climate problems, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX, Nature paper surfing, paleobiology, evolution, Darwin, Math, music, eco-social sustainability, science communication and twaddling some guitar or piano keys.
+Hey there. I am an Delay Analyst in the Construction industry. I have a background in Civil and Environmental Engineering from University College London. I’m interested in blockchain, climate change, climate modelling, applications of AI and Machine learning in climate problems, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX, Nature paper surfing, paleobiology, evolution, Darwin, Math, music, eco-social sustainability, science communication and twaddling some guitar strings.
 Curiosity kills just cats, not humans ;)
