@@ -27,6 +27,6 @@ Despite the tendency to over-idealise any beacon of hope, I think we should stil
 
 Hopefully, our current civilisation has more to see in Mars and the Moon before it collapses like the Romans', and dwindles like [Galactic Empire](https://en.wikipedia.org/wiki/Galactic_Empire_(Asimov)) in the Foundation. Blockchain has changed the world, and may even save our planet. 
 
-Instead of 'In God we trust' printed on the dollar, we can safely say, 'In Code we trust' printed on the blockchain.
+Instead of 'In God we trust' printed on the dollar, we can safely say, 'In Code we trust' minted on the blockchain.
 
 Much love, and may the node be with you.
