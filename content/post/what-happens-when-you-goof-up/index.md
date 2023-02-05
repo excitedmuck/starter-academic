@@ -25,7 +25,7 @@ Lots of Death Anxiety in people's mind. Reassessments of life and more. Some pro
 
 \- Music theory to become a professional pianist by the time I am 30. 
 
-\- Giving 1.4k pounds to a secure my bank account, only to find out I was duped. 
+\- Giving x pounds to a secure my bank account, only to find out I was duped. 
 
 \-  A personal website where I write down what it is to live in London. 
 
@@ -49,7 +49,7 @@ Lots of Death Anxiety in people's mind. Reassessments of life and more. Some pro
 
 \- Becoming a TIME Wonderland Staker in order to make my rent for the next 6 months. 
 
-\- Learning how to socialise with posh people. (Don't know how that went, i mostly messed that up)
+\- Learning how to socialise with people. (Don't know how that went, i mostly messed that up)
 
 \- Writing on linkedin, one article about Mental Health and Depression. 
 
