@@ -68,5 +68,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hey there. I am an Delay Analyst in the Construction industry. I have a background in Civil and Environmental Engineering from University College London. I’m interested in blockchain, climate change, climate modelling, applications of AI and Machine learning in climate problems, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX, Nature paper surfing, paleobiology, evolution, Darwin, Math, music, eco-social sustainability, science communication and twaddling some guitar or piano keys.
+Hey there. I am a PhD Student in Geospatial Analytics with the ESPRC in the University of Nottingham. Before that, I worked in the contruction arbitration industry as a delay analyst and studied Civil and Environmental Engineering from University College London. I’m interested in Space as the final frontier, blockchain, climate change, climate modelling, applications of AI and Machine learning in climate problems, fluid dynamics, turbulence, wakes behind bluff bodies, geophysics, engineering geology, SpaceX, Nature paper surfing, paleobiology, evolution, Darwin, Math, music, eco-social sustainability, science communication and twaddling some guitar or piano keys.
 Curiosity kills just cats, not humans ;)
