@@ -1,5 +1,5 @@
 ---
-title: "I feel like Buridan's donkey. "
+title: "Buridan's donkey. "
 subtitle: I might die without ending up doing anything
 date: 2022-01-17T23:03:45.438Z
 summary: Robert Frost was wrong. There aren't just two roads. There are 4 roads,
