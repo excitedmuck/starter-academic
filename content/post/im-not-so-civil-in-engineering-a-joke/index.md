@@ -10,12 +10,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Well well. You know when you get immersed in a topic so deep that your crazy mind tries to find word associations and puns and you are kind of sad that the only one laughing at them is your self. So here we go, I am sharing them so that we can all laugh together. Warning… they’re bored lines…
-
 * Why was the slab mourning?\
   It was carrying a dead load.
-
-
 * Why do complex numbers keep on falling down?\
   They don’t have real roots.
 * Why don’t Newton’s equations for motion smile?\
