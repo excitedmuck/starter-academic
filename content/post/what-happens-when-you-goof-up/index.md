@@ -1,5 +1,5 @@
 ---
-title: What happens when you goof up?
+title: 2022...
 subtitle: "A book on GPT-3, Learning blockchain, being a musician, and more. "
 date: 2022-01-08T01:49:05.241Z
 summary: Some failures. And projects in the pipeline.
