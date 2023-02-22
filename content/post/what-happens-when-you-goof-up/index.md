@@ -37,8 +37,6 @@ Lots of Death Anxiety in people's mind. Reassessments of life and more. Some pro
 
 \- Becoming a PhD Student in AI and ML applied to Climate Science. 
 
-\- Turning my house into a Airbnb for extra cash.
-
 \- Reading a book every 4 days. 
 
 \- Creating friendships with people who would be happy to be saying goodbye to me on my death bed. 
@@ -48,8 +46,6 @@ Lots of Death Anxiety in people's mind. Reassessments of life and more. Some pro
 \- Cooking (success!) for people in order to socialise and create a sense of community. 
 
 \- Becoming a TIME Wonderland Staker in order to make my rent for the next 6 months. 
-
-\- Learning how to socialise with people. (Don't know how that went, i mostly messed that up)
 
 \- Writing on linkedin, one article about Mental Health and Depression. 
 
